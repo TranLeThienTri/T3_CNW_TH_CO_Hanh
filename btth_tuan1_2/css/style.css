@@ -39,10 +39,7 @@
 }
 
 .with_cell {
+    background-color: #ccc;
     display: inline-block;
-    width: 200px;
-    height: 60px;
-    box-shadow: 5px 5px #ccc;
+    float: left;
 }
-
-.with_cell>table {}
