@@ -30,3 +30,19 @@
     background-color: #ff9933;
     margin: 50px;
 }
+
+.bai6_b>table {
+    margin-top: 50px;
+    margin-left: 20%;
+    background-color: #ff9933;
+    text-align: left;
+}
+
+.with_cell {
+    display: inline-block;
+    width: 200px;
+    height: 60px;
+    box-shadow: 5px 5px #ccc;
+}
+
+.with_cell>table {}
