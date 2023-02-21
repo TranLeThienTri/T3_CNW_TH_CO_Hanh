@@ -1,0 +1,32 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+} */
+
+#bai3_b {
+    background-color: #ff9933;
+    margin: 50px;
+}
+
+#bai3_b h2 {
+    margin: 20px;
+}
+
+.text1 {
+    text-align: left;
+}
+
+.text2 {
+    text-align: center;
+}
+
+.text3 {
+    text-align: right;
+}
+
+#bai4_b {
+    width: 20%;
+    background-color: #ff9933;
+    margin: 50px;
+}
