@@ -195,8 +195,37 @@ caption {
 .bai11 {
     width: 60%;
     margin: 0 auto;
+    padding: 10px;
 }
 
 .bai11 img {
     width: 60%;
+}
+
+
+.bai12{
+    width: 40%;
+    margin: 50px auto;
+    padding: 10px;
+}
+
+.bai12 h4{
+    margin: 0;
+}
+
+.btn-submit {
+    display: block;
+    margin: 15px 0;
+}
+
+.bai13 {
+    width: 40%;
+    padding: 0 5px;
+    margin: 50px auto;
+
+}
+
+
+.bai13 p {
+    margin-bottom: 0;
 }
