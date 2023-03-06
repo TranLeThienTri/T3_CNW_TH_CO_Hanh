@@ -67,7 +67,7 @@
     border-radius: 5px;
 }
 
-.bai6_b>table {
+.bai6_b > table {
     margin-top: 50px;
     margin-left: 20%;
     background-color: #ff9933;
@@ -124,7 +124,7 @@
     width: inherit;
 }
 
-.bai6_c tr>td:first-child {
+.bai6_c tr > td:first-child {
     background-color: #aaddff;
 }
 
@@ -189,7 +189,7 @@ caption {
     margin: 50px auto;
 }
 
-.bai10 summary+p {
+.bai10 summary + p {
     margin: 10px;
 }
 
@@ -228,7 +228,8 @@ caption {
     margin-bottom: 0;
 }
 
-.bai14 {}
+.bai14 {
+}
 
 .bai14 textarea {
     display: inline-block;
@@ -236,9 +237,66 @@ caption {
 
 .btn-send {
     display: block;
+    padding: 0;
 }
 
 .bai15 {
     padding: 10px;
     margin: 50px auto;
+}
+
+.bai16 {
+    margin: 50px auto;
+    padding: 10px;
+}
+
+.bai17_a {
+    margin: 50px auto;
+    background-color: #ff9933;
+    border-radius: 5px;
+    position: relative;
+    padding-bottom: 30px;
+}
+
+.sm {
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    left: 40%;
+}
+
+.sm-1 {
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    left: 55%;
+}
+.bai17_b {
+    width: 500px;
+    display: inline-block;
+    padding: 10px;
+}
+
+.bai17_b option {
+    display: inline-block;
+    padding: 0 100px;
+    
+}
+
+.bai17_b h3 {
+    display: inline-block;
+}
+
+
+.bai18{
+    width: 50%;
+    margin: 50px auto;
+    padding: 10px;
+}
+
+.bai19,
+.bai20{
+    width: 50%;
+    margin: 50px auto;
+    text-align: center;
 }
